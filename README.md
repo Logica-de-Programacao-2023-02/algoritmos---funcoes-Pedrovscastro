@@ -1,4 +1,4 @@
-# Algoritmos
+# Algoritmos - Funções
 
 ---
 ### Lembre-se de criar as funções com as assinaturas requisitadas!
